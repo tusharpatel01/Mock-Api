@@ -2,10 +2,22 @@
   "name": "pixisphere-mock-api",
   "version": "1.0.0",
   "scripts": {
- "start": "json-server --watch db.json --port $PORT --middlewares cors.js"
-
+    "start": "json-server --watch db.json --port $PORT --middlewares cors.js"
   },
   "dependencies": {
-    "json-server": "^0.17.0"
-  }
+    "json-server": "^0.17.4"
+  },
+  "description": "��#\u0000 \u0000M\u0000o\u0000c\u0000k\u0000-\u0000A\u0000p\u0000i\u0000\r\u0000 \u0000",
+  "main": "cors.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharpatel01/Mock-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharpatel01/Mock-Api/issues"
+  },
+  "homepage": "https://github.com/tusharpatel01/Mock-Api#readme"
 }
